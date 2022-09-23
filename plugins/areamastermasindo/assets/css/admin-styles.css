@@ -1,0 +1,30 @@
+.am-admin-container, .am-settings {
+    padding: 60px 0;
+}
+
+.am-admin-container h2, .am-settings h2 {
+    padding: 0 0 28px;
+}
+.details-section h2 {
+    padding: 0 0 20px;
+}
+.details-section {
+    padding: 70px 0;
+}
+table.table th, h2, label, select {
+    text-transform: capitalize;
+	letter-spacing: 1px;
+}
+.table td {
+    text-transform: capitalize;
+}
+.btn {
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+}
+input.select2-search__field {
+    width: 100% !important;
+}
+li.select2-results__option {
+    text-transform: capitalize;
+}
